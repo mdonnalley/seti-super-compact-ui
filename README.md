@@ -2,7 +2,7 @@
 
 This is the a UI Theme forked off https://github.com/jesseweed/seti-ui
 
-The only notable difference is that compact mode is now much more compact than it was before
+This fork adds a second compact mode, "Super Compact". So now in the settings, you can now choose between "Normal", "Compact", and "Super Compact" modes.
 
 -----
 
