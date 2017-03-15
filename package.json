@@ -7,7 +7,7 @@
   "license": "",
   "repository": "https://github.com/mdonnalley/seti-super-compact-ui",
   "engines": {
-    "atom": ">1.8.0"
+    "atom": ">1.13.0"
   },
   "configSchema": {
     "themeColor": {
@@ -78,5 +78,11 @@
       "type": "boolean",
       "default": false
     }
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-iconfont": "8.0.1",
+    "gulp-iconfont-css": "^2.1.0",
+    "gulp-svgmin": "^1.2.3"
   }
 }
